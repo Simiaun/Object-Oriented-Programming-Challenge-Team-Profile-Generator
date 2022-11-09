@@ -18,7 +18,8 @@ The user should clone the repository from GitHub and download Node. This applica
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
 View walk through video here - [Screencastify]()<br>
-<img src="./assets/image/samplepage.png">
+<img src="![Screen shot 11](https://user-images.githubusercontent.com/106162334/200942984-7ce7abbe-33d4-445a-9026-9b3c29981b0e.PNG)
+">
 
 ## License 
 This project is license under MIT
